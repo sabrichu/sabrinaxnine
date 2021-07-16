@@ -43,6 +43,9 @@ https://www.youtube.com/watch?v=LnSFuUJjYIo
 - Telstar 1 - Smithsonian National Air and Space Museum
 https://airandspace.si.edu/multimedia-gallery/4242640jpg
 
+- SBS-4 - NASA Image and Video Library
+https://images.nasa.gov/details-41d-39-0068
+
 #### Ball of Light Interlude
 
 - Whole Earth Catalog - Wikipedia
