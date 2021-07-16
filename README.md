@@ -16,39 +16,39 @@ Aphex Twin - #3
 
 ### Code
 
-- Animation timelines - GreenSock 
+- Animation timelines - GreenSock<br />
 https://greensock.com/
 
-- TrashTalkFM waveform - Wavesurfer.js
+- TrashTalkFM waveform - Wavesurfer.js<br />
 https://wavesurfer-js.org/
 
 ### Images
 
 #### Sabrina's Stuff
 
-- Handkerchiefs - Cleveland Museum of Art
+- Handkerchiefs - Cleveland Museum of Art<br />
 https://www.clevelandart.org/art/collection/search?i=1&search=handkerchief
 
-- Maligne Canyon - Archive.org
+- Maligne Canyon - Archive.org<br />
 https://archive.org/details/PC008290
 
-- Organ Pipes National Park - Wikimedia Commons
+- Organ Pipes National Park - Wikimedia Commons<br />
 https://commons.wikimedia.org/wiki/Category:Organ_Pipes_National_Park
 
-- Sea of spoons - SlowTV Relax&Background (Youtube)
+- Sea of spoons - SlowTV Relax&Background (Youtube)<br />
 https://www.youtube.com/watch?v=LnSFuUJjYIo
 
 #### TrashTalkFM
 
-- Telstar 1 - Smithsonian National Air and Space Museum
+- Telstar 1 - Smithsonian National Air and Space Museum<br />
 https://airandspace.si.edu/multimedia-gallery/4242640jpg
 
-- SBS-4 - NASA Image and Video Library
+- SBS-4 - NASA Image and Video Library<br />
 https://images.nasa.gov/details-41d-39-0068
 
 #### Ball of Light Interlude
 
-- Whole Earth Catalog - Wikipedia
+- Whole Earth Catalog - Wikipedia<br />
 https://en.wikipedia.org/wiki/File:WEC-69F-C.jpg
 
 ## Inspiration
