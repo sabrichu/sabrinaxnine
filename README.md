@@ -8,6 +8,10 @@ My father wanted to name me Sabrina, after the heroine of the Audrey Hepburn fil
 
 We hide in our usernames and passwords parts of ourselves that don't seem to fit anywhere else: our childhood nicknames, our favorite song lyrics, our hopeful little beacons of identity. In this way Sabrina will always be mine, safely tucked away in an incomprehensible email address; as though by disappearing at age 2, she transformed, like a dying mortal touched by divine mercy, into a tender white bunny shape-shifting in the underbrush, the grief of her unlived lives forever lifted.
 
+## Thanks
+
+Thank you to everyone whose feedback and encouragement buoyed me through years of on-and-off development: Blake Conway, Daniel Lucas, Drew Lopshire, Drew Ritter, Grayson Stebbins, Jeff Harris, Karen Hsu, and Monica Cuenca. And of course thank you to my parents, for their bizarre but successful example of marital negotiation.
+
 ## Credits
 
 ### Music
