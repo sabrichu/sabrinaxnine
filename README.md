@@ -1,6 +1,4 @@
-[https://sabrinaxnine.com](https://sabrinaxnine.com)
-
-_Sabrina x Nine_ is a web project created by Tamara Chu.
+_[Sabrina x Nine](https://sabrinaxnine.com)_ is a web project created by Tamara Chu.
 
 My father wanted to name me Sabrina, after the heroine of the Audrey Hepburn film; my mother wanted all her children to have names that start with the letter T. As a compromise, they decided to call me Sabrina, but only for two years.
 
