@@ -6,7 +6,7 @@ We hide in our usernames and passwords parts of ourselves that don't seem to fit
 
 ## Thanks
 
-Thank you to everyone whose feedback and encouragement buoyed me through years of on-and-off development: Blake Conway, Daniel Lucas, Drew Lopshire, Drew Ritter, Grayson Stebbins, Jeff Harris, Karen Hsu, and Monica Cuenca. And of course thank you to my parents, for their bizarre but successful example of marital negotiation.
+Thank you to everyone whose feedback and encouragement buoyed me through years of on-and-off development: Blake Conway, Daniel Lucas, Drew Lopshire, Drew Ritter, Grayson Stebbins, Jeff Harris, Karen Hsu, and Monica Cuenca. And of course thank you to my parents, for setting a bizarre but successful example of marital negotiation.
 
 ## Credits
 
