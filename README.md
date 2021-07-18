@@ -16,13 +16,18 @@ Aphex Twin - #3
 
 ### Code
 
-- Animation timelines - GreenSock<br />
+- Animation library - GreenSock<br />
 https://greensock.com/
 
 - TrashTalkFM waveform - Wavesurfer.js<br />
 https://wavesurfer-js.org/
 
 ### Images
+
+#### Darkroom
+
+- Peony Images - Manipulated footage I took in 2017 of Go-Eum Im's <em>5days in May</em> at Insa Art Space<br />
+http://vzlart.nl/go-eun-im-till-peony-blooms
 
 #### Sabrina's Stuff
 
