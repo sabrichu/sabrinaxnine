@@ -26,7 +26,7 @@ https://wavesurfer-js.org/
 
 #### Darkroom
 
-- Peony Images - Manipulated footage I took in 2017 of Go-Eum Im's <em>5days in May</em> at Insa Art Space<br />
+- Peony Images - Manipulated footage of Go-Eum Im's <em>5days in May</em><br />
 http://vzlart.nl/go-eun-im-till-peony-blooms
 
 #### Sabrina's Stuff
