@@ -8,6 +8,8 @@ We hide in our usernames and passwords parts of ourselves that don't seem to fit
 
 Thank you to everyone whose feedback and encouragement buoyed me through years of on-and-off development: Blake Conway, Daniel Lucas, Drew Lopshire, Drew Ritter, Grayson Stebbins, Jeff Harris, Karen Hsu, and Monica Cuenca. And of course thank you to my parents, for setting a bizarre but successful example of marital negotiation.
 
+Credit and respect to the photographers, coders, musicians, scientists, and other creatives who freely offered their work for others to transform into new stories (enumerated below).
+
 ## Credits
 
 ### Music
