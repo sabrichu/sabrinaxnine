@@ -29,6 +29,23 @@ https://wavesurfer-js.org/
 - Peony Images - Manipulated footage of Go-Eum Im's <em>5days in May</em><br />
 http://vzlart.nl/go-eun-im-till-peony-blooms
 
+#### Kitty
+
+- Alley - Wikimedia Commons<br />
+https://commons.wikimedia.org/wiki/File:Teakle_Alley_Baltimore.jpg
+
+- Building front - Wikimedia Commons<br />
+https://commons.wikimedia.org/wiki/File:10_Hockenhall_Alley_front.jpg
+
+- Cat profile - Wikimedia Commons<br />
+https://commons.wikimedia.org/wiki/File:Black_cat_eyes.jpg
+
+- Cat Eyes - Pixabay<br />
+https://pixabay.com/photos/cat-s-eyes-cat-black-looking-gaze-2944820/
+
+- Brick wall - Wikimedia Commons<br />
+https://commons.wikimedia.org/wiki/File:Praha_Brick_Wall_Z%C3%A1meck%C3%A9_schody.jpg
+
 #### Sabrina's Stuff
 
 - Handkerchiefs - Cleveland Museum of Art<br />
