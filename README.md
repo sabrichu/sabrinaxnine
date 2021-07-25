@@ -81,3 +81,4 @@ Aphex Twin - #3
 - Midnight Gospel
 - Waking Life
 - Rebecca Solnit's infinite hospital in _A Field Guide to Getting Lost_ ("an interior without an outside")
+- Virigina Woolf's wedge-shaped core of darkness in _To The Lighthouse_
