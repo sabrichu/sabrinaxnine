@@ -24,6 +24,11 @@ Aphex Twin - #3
 - TrashTalkFM waveform - Wavesurfer.js<br />
 [https://wavesurfer-js.org/](https://wavesurfer-js.org/)
 
+### Fonts
+
+- VCR OSD Mono - Riciery Leal<br />
+https://www.dafont.com/vcr-osd-mono.font
+
 ### Images
 
 #### Darkroom
