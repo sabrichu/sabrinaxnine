@@ -39,6 +39,9 @@ https://www.dafont.com/vcr-osd-mono.font
 - Woman in a bathtub - Ernest Slingeneyer<br />
 [https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg](https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg)
 
+- "Everything you make returns..." quote - Slow Factory<br />
+[https://slowfactory.foundation/](https://slowfactory.foundation/)
+
 - Peony Images - Manipulated footage of Go-Eum Im's <em>5days in May</em><br />
 [http://vzlart.nl/go-eun-im-till-peony-blooms](http://vzlart.nl/go-eun-im-till-peony-blooms)
 
@@ -91,6 +94,6 @@ https://www.dafont.com/vcr-osd-mono.font
 - The cat-sith
 - Midnight Gospel
 - Waking Life
-- Jenny Odell's September 2020 talk at the Lab about time 
+- Jenny Odell's September 2020 talk at the Lab about time
 - Rebecca Solnit's infinite hospital in _A Field Guide to Getting Lost_ ("an interior without an outside")
 - Virigina Woolf's wedge-shaped core of darkness in _To The Lighthouse_
