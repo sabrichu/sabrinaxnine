@@ -33,6 +33,12 @@ https://www.dafont.com/vcr-osd-mono.font
 
 #### Darkroom
 
+- Lightbulb - Pixabay<br />
+[https://pixabay.com/photos/bright-lightbulb-electricity-bulb-1847006/](https://pixabay.com/photos/bright-lightbulb-electricity-bulb-1847006)
+
+- Woman in a bathtub - Ernest Slingeneyer<br />
+[https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg](https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg)
+
 - Peony Images - Manipulated footage of Go-Eum Im's <em>5days in May</em><br />
 [http://vzlart.nl/go-eun-im-till-peony-blooms](http://vzlart.nl/go-eun-im-till-peony-blooms)
 
@@ -48,7 +54,7 @@ https://www.dafont.com/vcr-osd-mono.font
 [https://commons.wikimedia.org/wiki/File:Black_cat_eyes.jpg](https://commons.wikimedia.org/wiki/File:Black_cat_eyes.jpg)
 
 - Cat Eyes - Pixabay<br />
-[https://pixabay.com/photos/cat-s-eyes-cat-black-looking-gaze-2944820/](https://pixabay.com/photos/cat-s-eyes-cat-black-looking-gaze-2944820/)
+[https://pixabay.com/photos/cat-s-eyes-cat-black-looking-gaze-2944820/](https://pixabay.com/photos/cat-s-eyes-cat-black-looking-gaze-2944820)
 
 - Brick wall - Wikimedia Commons<br />
 [https://commons.wikimedia.org/wiki/File:Praha_Brick_Wall_Z%C3%A1meck%C3%A9_schody.jpg](https://commons.wikimedia.org/wiki/File:Praha_Brick_Wall_Z%C3%A1meck%C3%A9_schody.jpg)
