@@ -2,7 +2,7 @@ _[Sabrina x Nine](https://sabrinaxnine.com)_ is a web project created by Tamara 
 
 My father wanted to name me Sabrina, after the heroine of the Audrey Hepburn film; my mother wanted all her children to have names that start with the letter T. As a compromise, they decided to call me Sabrina, but only for two years.
 
-We hide in our usernames and passwords parts of ourselves that don't seem to fit anywhere else: our childhood nicknames, our favorite song lyrics, our hopeful little beacons of identity. In this way Sabrina will always be mine, safely tucked away in a nonsensical email address; as though by disappearing at age 2, she transformed, like a dying mortal touched by divine mercy, into a tender white bunny shape-shifting in the underbrush, forever freed from the remorse of an unlived life.
+We hide in our usernames and passwords parts of ourselves that don't seem to fit anywhere else: our childhood nicknames, our favorite song lyrics, our hopeful little beacons of identity. In this way Sabrina will always be mine, safely tucked away in a nonsensical email address; as though by disappearing at age 2, she transformed, like a dying mortal touched by divine mercy, into a tender white bunny shape-shifting in the underbrush, forever freed from the remorse of lives unlived.
 
 ## Thanks
 
