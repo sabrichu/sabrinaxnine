@@ -62,6 +62,14 @@ https://www.dafont.com/vcr-osd-mono.font
 - Brick wall - Wikimedia Commons<br />
 [https://commons.wikimedia.org/wiki/File:Praha_Brick_Wall_Z%C3%A1meck%C3%A9_schody.jpg](https://commons.wikimedia.org/wiki/File:Praha_Brick_Wall_Z%C3%A1meck%C3%A9_schody.jpg)
 
+#### Kitty Speaks
+
+- Frame - Wikimedia Commons<br />
+[https://commons.wikimedia.org/wiki/File:Perpignan_Mus%C3%A9e_Rigaud_Vel%C3%A1zquez.jpg](https://commons.wikimedia.org/wiki/File:Perpignan_Mus%C3%A9e_Rigaud_Vel%C3%A1zquez.jpg)
+
+- Portrait - Biodiversity Heritage Library Flickr<br />
+[https://flic.kr/p/axunjd](https://flic.kr/p/axunjd)
+
 #### Sabrina's Stuff
 
 - Handkerchiefs - Cleveland Museum of Art<br />
