@@ -21,7 +21,7 @@ Aphex Twin - #3
 ### Fonts
 
 - VCR OSD Mono - Riciery Leal<br />
-https://www.dafont.com/vcr-osd-mono.font
+[https://www.dafont.com/vcr-osd-mono.font](https://www.dafont.com/vcr-osd-mono.font)
 
 ### Images
 
@@ -31,7 +31,7 @@ https://www.dafont.com/vcr-osd-mono.font
 [https://pixabay.com/photos/bright-lightbulb-electricity-bulb-1847006/](https://pixabay.com/photos/bright-lightbulb-electricity-bulb-1847006)
 
 - Woman in a bathtub - Ernest Slingeneyer<br />
-[https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg](https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg)
+<a href="https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg" target="_blank">https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg</a>
 
 - "Everything you make returns..." quote - Slow Factory<br />
 [https://slowfactory.foundation/](https://slowfactory.foundation/)
