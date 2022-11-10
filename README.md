@@ -91,6 +91,11 @@ Aphex Twin - #3
 - Whole Earth Catalog - Wikipedia<br />
 [https://en.wikipedia.org/wiki/File:WEC-69F-C.jpg](https://en.wikipedia.org/wiki/File:WEC-69F-C.jpg)
 
+#### Sutro Story
+
+- Sutro Tower - Wikimedia Commons<br />
+[https://commons.wikimedia.org/wiki/File:Sutro-tower-20180503.jpg](https://commons.wikimedia.org/wiki/File:Sutro-tower-20180503.jpg)
+
 ## Inspiration
 
 - The cat-sith
