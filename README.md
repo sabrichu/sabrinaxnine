@@ -1,4 +1,4 @@
-_[Sabrina x Nine](https://sabrinaxnine.com)_ is a web project created by Tamara Chu.
+_[Sabrina x Nine](https://sabrina.place)_ is a web project created by Tamara Chu.
 
 ## Thanks
 
@@ -26,15 +26,6 @@ Aphex Twin - #3
 ### Images
 
 #### Darkroom
-
-- Lightbulb - Pixabay<br />
-[https://pixabay.com/photos/bright-lightbulb-electricity-bulb-1847006/](https://pixabay.com/photos/bright-lightbulb-electricity-bulb-1847006)
-
-- Woman in a bathtub - Ernest Slingeneyer<br />
-<a href="https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg" target="_blank">https://commons.wikimedia.org/wiki/File:Ernest_Slingeneyer_-_Woman_in_a_bathtub.jpg</a>
-
-- "Everything you make returns..." quote - Slow Factory<br />
-[https://slowfactory.foundation/](https://slowfactory.foundation/)
 
 - Peony Images - Manipulated footage of Go-Eum Im's <em>5days in May</em><br />
 [http://vzlart.nl/go-eun-im-till-peony-blooms](http://vzlart.nl/go-eun-im-till-peony-blooms)
@@ -85,11 +76,6 @@ Aphex Twin - #3
 
 - SBS-4 - NASA Image and Video Library<br />
 [https://images.nasa.gov/details-41d-39-0068](https://images.nasa.gov/details-41d-39-0068)
-
-#### Ball of Light Interlude
-
-- Whole Earth Catalog - Wikipedia<br />
-[https://en.wikipedia.org/wiki/File:WEC-69F-C.jpg](https://en.wikipedia.org/wiki/File:WEC-69F-C.jpg)
 
 #### Sutro Story
 
