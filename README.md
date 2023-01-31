@@ -69,6 +69,11 @@ Aphex Twin - #3
 - Sea of spoons - SlowTV Relax&Background (Youtube)<br />
 [https://www.youtube.com/watch?v=LnSFuUJjYIo](https://www.youtube.com/watch?v=LnSFuUJjYIo)
 
+#### Sutro Story
+
+- Sutro Tower - Google Maps Photo by Jens Leerssen<br />
+[https://goo.gl/maps/qtM7yNevXCEB7sw68](https://goo.gl/maps/qtM7yNevXCEB7sw68)
+
 #### TrashTalkFM
 
 - Telstar 1 - Smithsonian National Air and Space Museum<br />
@@ -76,11 +81,6 @@ Aphex Twin - #3
 
 - SBS-4 - NASA Image and Video Library<br />
 [https://images.nasa.gov/details-41d-39-0068](https://images.nasa.gov/details-41d-39-0068)
-
-#### Sutro Story
-
-- Sutro Tower - Wikimedia Commons<br />
-[https://commons.wikimedia.org/wiki/File:Sutro-tower-20180503.jpg](https://commons.wikimedia.org/wiki/File:Sutro-tower-20180503.jpg)
 
 ## Inspiration
 
