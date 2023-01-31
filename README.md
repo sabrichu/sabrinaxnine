@@ -52,8 +52,8 @@ Aphex Twin - #3
 - Frame - Wikimedia Commons<br />
 [https://commons.wikimedia.org/wiki/File:Perpignan_Mus%C3%A9e_Rigaud_Vel%C3%A1zquez.jpg](https://commons.wikimedia.org/wiki/File:Perpignan_Mus%C3%A9e_Rigaud_Vel%C3%A1zquez.jpg)
 
-- Portrait - Biodiversity Heritage Library Flickr<br />
-[https://flic.kr/p/axunjd](https://flic.kr/p/axunjd)
+- Cat portraits - Biodiversity Heritage Library Flickr<br />
+[https://www.flickr.com/photos/189748438@N07/galleries/72157719801267247/](https://www.flickr.com/photos/189748438@N07/galleries/72157719801267247/)
 
 #### Sabrina's Stuff
 
