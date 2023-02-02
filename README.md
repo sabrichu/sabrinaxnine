@@ -41,7 +41,7 @@ Aphex Twin - #3
 - Cat profile - Wikimedia Commons<br />
 [https://commons.wikimedia.org/wiki/File:Black_cat_eyes.jpg](https://commons.wikimedia.org/wiki/File:Black_cat_eyes.jpg)
 
-- Cat Eyes - Pixabay<br />
+- Cat eyes - Pixabay<br />
 [https://pixabay.com/photos/cat-s-eyes-cat-black-looking-gaze-2944820/](https://pixabay.com/photos/cat-s-eyes-cat-black-looking-gaze-2944820)
 
 - Brick wall - Wikimedia Commons<br />
