@@ -1,4 +1,4 @@
-_[Sabrina x Nine](https://sabrina.place)_ is a web project created by Tamara Chu.
+_[Sabrina x Nine](https://sabrina.place)_ is a web project created by [Tamara Chu](https://instagram.com/sabrichu).
 
 ## Thanks
 
